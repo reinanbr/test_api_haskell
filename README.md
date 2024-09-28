@@ -1,1 +1,1 @@
-# test_api_haskell
+# test-api-haskell
